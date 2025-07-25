@@ -119,4 +119,4 @@ project-root/
 
 ## 🙋‍♀️ About Me
 
-I'm **Vaishnavi Kharche**, a passionate full-stack developer currently exploring **DevOps tools** and best practices. This project showcases my ability to independently learn and apply containerization concepts through a working app.
+I'm **Vaishnavi Kharche**, a fresher actively learning new technologies currently exploring **DevOps tools** and best practices. This project showcases my ability to independently learn and apply containerization concepts through a working app.
